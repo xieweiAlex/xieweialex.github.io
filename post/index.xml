@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Collect thoughts from daily wondering</title>
-    <link>http://example.org/post/</link>
+    <link>https://xieweialex.github.io/post/</link>
     <description>Recent content in Posts on Collect thoughts from daily wondering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Feb 2020 22:08:16 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xieweialex.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Post</title>
-      <link>http://example.org/post/test-post/</link>
+      <link>https://xieweialex.github.io/post/test-post/</link>
       <pubDate>Sat, 08 Feb 2020 22:08:16 -0800</pubDate>
       
-      <guid>http://example.org/post/test-post/</guid>
+      <guid>https://xieweialex.github.io/post/test-post/</guid>
       <description>Here is just some test text
 what is funny isn&amp;rsquo;t funny</description>
     </item>
