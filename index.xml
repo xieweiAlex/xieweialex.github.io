@@ -6,10 +6,29 @@
     <description>Recent content on Collect thoughts from daily wondering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2020 22:08:16 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://xieweialex.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What was I like 4 years ago</title>
+      <link>https://xieweialex.github.io/post/4-years-ago/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xieweialex.github.io/post/4-years-ago/</guid>
+      <description>What was I like 4 years ago All of a sudden everybody in the Wechat moments started recalling what was life like 4 years ago, then I realized today is the leap day for every 4 years.
+What was I like 4 years ago on the leap day? I was in Shenzhen, just came back from my hometown Yueyang where I lost my luggage in a cab a few weeks ago.</description>
+    </item>
+    
+    <item>
+      <title>Review of the article [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)</title>
+      <link>https://xieweialex.github.io/post/the-feedback-fallacy/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xieweialex.github.io/post/the-feedback-fallacy/</guid>
+      <description>Review of the article &amp;ldquo;The Feedback Fallacy&amp;rdquo; Recently I read the article The Feedback Fallacy, I was amazed, I&amp;rsquo;ve thought it for a while, as I was raised in a traditional Asian culture which encourages submissiveness in a patriarchy way, I got a weak ego and incline to follow others whenever possible. But since I left my hometown and living alone in few metro cities for years, I found myself became more self-center, independent, and most importantly, happier.</description>
+    </item>
     
     <item>
       <title>Test Post</title>
@@ -19,34 +38,6 @@
       <guid>https://xieweialex.github.io/post/test-post/</guid>
       <description>Here is just some test text
 what is funny isn&amp;rsquo;t funny</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://xieweialex.github.io/post/4-years-ago/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xieweialex.github.io/post/4-years-ago/</guid>
-      <description>What was I like 4 years ago All of a sudden everybody in the Wechat moments started recalling what was life like 4 years ago, then I realized today is the leap day for every 4 years.
-What was I like 4 years ago on the leap day? I was in Shenzhen, just came back from my hometown Yueyang where I lost my luggage in a cab a few weeks ago.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://xieweialex.github.io/post/newfile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xieweialex.github.io/post/newfile/</guid>
-      <description>This test file has been updated, what a surprise?</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://xieweialex.github.io/post/the-feedback-fallacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xieweialex.github.io/post/the-feedback-fallacy/</guid>
-      <description>Review of the article &amp;ldquo;The Feedback Fallacy&amp;rdquo; Recently I read the article The Feedback Fallacy, I was amazed, I&amp;rsquo;ve thought it for a while, as I was raised in a traditional Asian culture which encourages submissiveness in a patriarchy way, I got a weak ego and incline to follow others whenever possible. But since I left my hometown and living alone in few metro cities for years, I found myself became more self-center, independent, and most importantly, happier.</description>
     </item>
     
   </channel>
