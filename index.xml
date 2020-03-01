@@ -6,10 +6,19 @@
     <description>Recent content on Alex&#39;s random blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 19:17:04 -0800</lastBuildDate>
     
 	<atom:link href="https://xieweialex.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://xieweialex.github.io/about/</link>
+      <pubDate>Sat, 29 Feb 2020 19:17:04 -0800</pubDate>
+      
+      <guid>https://xieweialex.github.io/about/</guid>
+      <description>about me</description>
+    </item>
     
     <item>
       <title>What was I like 4 years ago</title>
