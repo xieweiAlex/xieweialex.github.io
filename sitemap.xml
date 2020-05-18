@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>https://xieweialex.github.io/test/</loc>
-    <lastmod>2020-02-29T19:17:04-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://xieweialex.github.io/post/4-years-ago/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
@@ -45,11 +40,6 @@
   <url>
     <loc>https://xieweialex.github.io/post/the-feedback-fallacy/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xieweialex.github.io/post/test-post/</loc>
-    <lastmod>2020-02-08T22:08:16-08:00</lastmod>
   </url>
   
   <url>
@@ -99,6 +89,11 @@
   
   <url>
     <loc>https://xieweialex.github.io/post/thoughts-on-shawnshank-redemption/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xieweialex.github.io/post/to-be-an-adventurist/</loc>
     <priority>0</priority>
   </url>
   
