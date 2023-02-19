@@ -36,11 +36,20 @@
     }
 ,
     {
-        "ref": "https://xieweialex.github.io/tags/pkm/",
-        "title": "PKM",
+        "ref": "https://xieweialex.github.io/tags/know-thyself/",
+        "title": "know thyself",
         "section": "tags",
         "tags": null,
-        "date" : "2022.08.22",
+        "date" : "2022.08.21",
+        "body": ""
+    }
+,
+    {
+        "ref": "https://xieweialex.github.io/tags/mbti/",
+        "title": "MBTI",
+        "section": "tags",
+        "tags": null,
+        "date" : "2022.08.21",
         "body": ""
     }
 ,
@@ -49,31 +58,13 @@
         "title": "strategy",
         "section": "tags",
         "tags": null,
-        "date" : "2022.08.21",
-        "body": ""
-    }
-,
-    {
-        "ref": "https://xieweialex.github.io/tags/summary/",
-        "title": "summary",
-        "section": "tags",
-        "tags": null,
-        "date" : "2022.08.21",
+        "date" : "2022.08.01",
         "body": ""
     }
 ,
     {
         "ref": "https://xieweialex.github.io/tags/identity/",
         "title": "identity",
-        "section": "tags",
-        "tags": null,
-        "date" : "2022.02.12",
-        "body": ""
-    }
-,
-    {
-        "ref": "https://xieweialex.github.io/tags/know-thyself/",
-        "title": "know thyself",
         "section": "tags",
         "tags": null,
         "date" : "2022.02.12",
@@ -104,6 +95,15 @@
         "section": "tags",
         "tags": null,
         "date" : "2020.11.25",
+        "body": ""
+    }
+,
+    {
+        "ref": "https://xieweialex.github.io/tags/summary/",
+        "title": "summary",
+        "section": "tags",
+        "tags": null,
+        "date" : "2020.04.06",
         "body": ""
     }
 ,
