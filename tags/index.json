@@ -1,5 +1,23 @@
 [
     {
+        "ref": "https://xieweialex.github.io/tags/journal/",
+        "title": "Journal",
+        "section": "tags",
+        "tags": null,
+        "date" : "2024.02.01",
+        "body": ""
+    }
+,
+    {
+        "ref": "https://xieweialex.github.io/tags/monthly-journal/",
+        "title": "Monthly journal",
+        "section": "tags",
+        "tags": null,
+        "date" : "2024.02.01",
+        "body": ""
+    }
+,
+    {
         "ref": "https://xieweialex.github.io/tags/review/",
         "title": "Review",
         "section": "tags",
@@ -14,15 +32,6 @@
         "section": "tags",
         "tags": null,
         "date" : "2024.01.21",
-        "body": ""
-    }
-,
-    {
-        "ref": "https://xieweialex.github.io/tags/journal/",
-        "title": "Journal",
-        "section": "tags",
-        "tags": null,
-        "date" : "2023.09.19",
         "body": ""
     }
 ,
