@@ -4,7 +4,16 @@
         "title": "Journal",
         "section": "tags",
         "tags": null,
-        "date" : "2024.02.01",
+        "date" : "2024.05.19",
+        "body": ""
+    }
+,
+    {
+        "ref": "https://xieweialex.github.io/tags/strategy/",
+        "title": "strategy",
+        "section": "tags",
+        "tags": null,
+        "date" : "2024.05.19",
         "body": ""
     }
 ,
@@ -86,15 +95,6 @@
         "section": "tags",
         "tags": null,
         "date" : "2022.08.21",
-        "body": ""
-    }
-,
-    {
-        "ref": "https://xieweialex.github.io/tags/strategy/",
-        "title": "strategy",
-        "section": "tags",
-        "tags": null,
-        "date" : "2022.08.01",
         "body": ""
     }
 ,
